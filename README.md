@@ -4,4 +4,5 @@
 # Description
 
 *Developed an App that recreates the Geekout Trivia board game
+
 *Implemented an SQLite Database to store and retrieve questions based on certain conditions in the game.
